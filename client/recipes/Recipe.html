@@ -14,5 +14,14 @@
         View Details
       </button>
     </a>
+    {{#if inMenu}}
+      <button class="btn-deny toggle-menu" type="button">
+        Remove from menu
+      </button>
+    {{ else }}
+      <button class="btn-primary toggle-menu" type="button">
+        Add to menu
+      </button>
+    {{/if}}
   </article>
 </template>
