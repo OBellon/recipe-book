@@ -9,9 +9,9 @@ Thanks to [LevelUpTuts](https://youtu.be/BI8IslJHSag?list=PLLnpHn493BHFYZUSK62aV
 
 ###Getting started
 
-Clone the repo
+Clone the repo 
 ```
-git clone
+git clone https://github.com/OBellon/recipe-book.git
 ```
 
 Install the dependencies
